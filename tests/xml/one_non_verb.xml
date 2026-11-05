@@ -1,0 +1,15 @@
+<annotation version="0.12" revision="4580223">
+    <text id="2" parent="1" name="тестовый текст">
+        <tags/>
+        <paragraphs>
+            <paragraph id="1">
+                <sentence id="1">
+                    <source>хз</source>
+                    <tokens>
+                        <token id="1" text="«"><tfr rev_id="2420236" t="хз"><v><l id="0" t="хз"><g v="HZ"/></l></v></tfr></token>
+                    </tokens>
+                </sentence>
+            </paragraph>
+        </paragraphs>
+    </text>
+</annotation>

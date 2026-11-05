@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Some book",
+    "chapters": {
+      "Some chapter": [
+        {
+          "character": "Albus Dumbledore",
+          "dialog": "Halo"
+        },
+        {
+          "character": "Ron Weasley",
+          "dialog": "Halo! Wie geht's?"
+        }
+      ],
+      "Other chapter": [
+        {
+          "character": "Hz",
+          "dialog": "Tschüss!"
+        }
+      ]
+    }
+  }
+]
