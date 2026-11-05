@@ -1,0 +1,24 @@
+<books>
+    <book title="sourcers stone">
+        <chapters>
+            <chapter>The Boy Who Lived</chapter>
+            <chapter>The Vanishing Glass</chapter>
+            <chapter>The Letters from No One</chapter>
+            <chapter>The Keeper of the Keys</chapter>
+            <chapter>Diagon Alley</chapter>
+            <chapter>The Journey from Platform Nine and Three-quarters</chapter>
+            <chapter>The Sorting Hat</chapter>
+            <chapter>The Potions Master</chapter>
+            <chapter>The Midnight Duel</chapter>
+            <chapter>Halloween</chapter>
+            <chapter>Quidditch</chapter>
+            <chapter>The Mirror of Erised</chapter>
+            <chapter>Nicolas Flamel</chapter>
+            <chapter>Norbert The Norwegian Ridgeback</chapter>
+            <chapter>The Forbidden Forest</chapter>
+            <chapter>Through the Trapdoor</chapter>
+            <chapter>The Man with Two Faces.</chapter>
+        </chapters>
+        <extra/>
+    </book>
+</books>

@@ -1,0 +1,18 @@
+{
+  "movies": [
+  {
+    "name": "Harry Potter and the Half-Blood Prince",
+    "year_release": 2009,
+    "main_actors": [{"name": "Daniel Radcliffe", "role": "Harry Potter"}, {"name": "Rupert Grint", "role": "Ron Weasly"}, {"name": "Emma Watson", "role": "Hermione Granger"}],
+    "score": null,
+    "liked": true
+  },
+  {
+    "name": "Harry Potter and the Order of the Phoenix",
+    "year_release": 2007,
+    "main_actors": [{"name": "Daniel Radcliffe", "role": "Harry Potter"}, {"name": "Rupert Grint", "role": "Ron Weasly"}, {"name": "Emma Watson", "role": "Hermione Granger"}],
+    "score": 5.0,
+    "liked": true
+  }
+  ]
+}
