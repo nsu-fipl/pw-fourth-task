@@ -52,11 +52,11 @@ def test_one_verb_xml():
     assert verb == "опростоволоситься"
 
 def test_two_verbs_first_is_frequent_xml():
-    verb = potter.find_method("xml/two_verbs_first_is_frequent.xml")
+    verb = potter.find_method('tests/xml/two_verbs_first_is_frequent.xml')
     assert verb == "опростоволоситься"
 
 def test_two_verbs_second_is_frequent_xml():
-    verb = potter.find_method("xml/two_verbs_first_is_frequent.xml")
+    verb = potter.find_method('tests/xml/two_verbs_first_is_frequent.xml')
     assert verb == "опростоволоситься"
 
 def test_empty_json():
